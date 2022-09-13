@@ -9,7 +9,7 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import RootReducer from './Reducers'
 //local
-export const serverBaseUrl="http://localhost:9890/"; 
+export const serverBaseUrl="https://afc9-223-233-77-201.in.ngrok.io/"; 
 
 
 //server
